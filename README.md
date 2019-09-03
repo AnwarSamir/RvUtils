@@ -7,7 +7,7 @@ if you have a recyclerview and want to make clcik on item at your view [Activity
 The lib is available on JitPack.io. Add the following to your build.gradle:
 ```
 dependencies {
-	         implementation 'com.github.AnwarSamir:RvUtils:1.0.07'
+	         implementation 'com.github.AnwarSamir:RvUtils:1.0.08'
 	}
 ```
 then 
